@@ -1,5 +1,33 @@
 [
     {
+     "name":"SSTIC",
+     "month":"June",
+     "location":"Rennes",
+     "country":"France",
+     "link":"https://www.sstic.org/"
+    },
+    {
+     "name":"r2con",
+     "month":"September",
+     "location":"Barcelona",
+     "country":"Spain",
+     "link":"http://radare.org/con/"
+    },
+    {
+     "name":"BalCCon",
+     "month":"September",
+     "location":"Novi Sad",
+     "country":"Serbia",
+     "link":"https://balccon.org/"
+    },
+    {
+     "name":"CCC",
+     "month":"December",
+     "location":"Leipzig",
+     "country":"Germany",
+     "link":"https://events.ccc.de/"
+    },
+    {
       "name": "BSides Nashville",
       "month": "April",
       "location": "Nashville, Tennessee",
